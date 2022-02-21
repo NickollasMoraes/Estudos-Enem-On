@@ -49,14 +49,10 @@ width: 50%;
     color: white;
     display: inline-flex;
     font-size: 25px;
-    padding-bottom: 20px;
-    margin-left: 38%;
 }
 .logo-insta{
-    margin-left: 10px;
+    margin-left: 8px;
 }
 .logo-insta img{
     width: 30px;
-    margin-top: 15px;
-    
 }
