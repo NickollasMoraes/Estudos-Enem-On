@@ -40,6 +40,7 @@ footer a:hover{
 
 .container-materias{
     background-color:#0971bb ;
+    background-size: cover;
     display: flex;
     justify-content: center;
     text-align: center;
