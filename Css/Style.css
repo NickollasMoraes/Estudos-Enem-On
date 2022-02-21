@@ -1,5 +1,5 @@
 
-.cabeca{
+header{
     background-color: #0360a2;
     display: flex;
     justify-content: space-between;
@@ -8,7 +8,7 @@ nav{
     text-align: right;
     margin-right: 35px;
 }
-.cabeca a:hover{
+header a:hover{
     padding-bottom:5px ;
     border-bottom: 3px solid #3d107b;
 }
