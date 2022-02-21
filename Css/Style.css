@@ -23,3 +23,25 @@ header a:hover{
 footer a:hover{
     border-bottom: 3px solid #3d107b;
 }
+
+/*Conteúdo da página principal*/
+.conteudo{
+    background-color:#0971bb ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 100%;
+    height: 550px;
+    overflow-x: hidden;
+    }
+
+/*Conteúdo da página de matérias*/
+
+.container-materias{
+    background-color:#0971bb ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    min-height: 500px;
+}

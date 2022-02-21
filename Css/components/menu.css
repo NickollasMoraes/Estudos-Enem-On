@@ -17,3 +17,14 @@ header h1{
     padding: 20px 20px;
     
 }
+.developer{
+    color: white;
+    display: inline-flex;
+    font-size: 25px;
+}
+.logo-insta{
+    margin-left: 8px;
+}
+.logo-insta img{
+    width: 30px;
+}

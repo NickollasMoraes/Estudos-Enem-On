@@ -1,0 +1,32 @@
+
+.container-materias h1{
+    color: Black;
+    display:block;
+    font-size: 26px;
+    margin-top: 25px;
+}
+.container-materias a{
+    color: white;
+  text-decoration: none;
+  display:block;
+  font-size: 24px;
+  margin-top: 20px;
+}
+.container-materias a:hover{
+    border-bottom: 3px solid #3d107b;
+}
+.ciencias-humanas{
+    width: 20%;
+}
+.ciencias-da-natureza{
+    width: 20%;
+}
+.linguagens{
+    width: 20%;
+}
+.matematica{
+    width: 20%;
+}
+.redacao{
+    width: 20%;
+}

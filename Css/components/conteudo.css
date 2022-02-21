@@ -1,14 +1,5 @@
 
-.conteudo{
-background-color:#0971bb ;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-display: flex;
-width: 100%;
-height: 550px;
-overflow-x: hidden;
-}
+
 .pagina1{
     width: 50%;
 }
@@ -44,15 +35,4 @@ width: 50%;
     height: 300px;
     margin-top: 15%;
     margin-left: 15%
-}
-.developer{
-    color: white;
-    display: inline-flex;
-    font-size: 25px;
-}
-.logo-insta{
-    margin-left: 8px;
-}
-.logo-insta img{
-    width: 30px;
 }
