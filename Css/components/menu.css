@@ -1,0 +1,19 @@
+header a{
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    margin-right: 8px;
+    border-right: 3px solid #fff;
+    padding: 0 20px;
+    margin-top: 30px;
+}
+header h1{
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 45px;
+    color: white;
+    margin-left: 15%;
+    padding: 20px 20px;
+    
+}
