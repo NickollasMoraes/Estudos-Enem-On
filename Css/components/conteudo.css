@@ -17,12 +17,13 @@
 }
 .botao{
     color: white;
-    font-size: 40px;
-    margin-top: 7%;
-    margin-left: 32%;
+    font-size: 35px;
     background-color: rebeccapurple;
     padding: 10px;
     border-radius: 50px;
+    text-decoration: none;
+    margin-top: 8%;
+    display: inline-block;
 }
 .botao:hover{
     cursor: pointer;
@@ -34,6 +35,7 @@
 }
 .ladodireitopagina1{
 width: 50%;
+height: 100%;
 }
 .char{
     height: 300px;

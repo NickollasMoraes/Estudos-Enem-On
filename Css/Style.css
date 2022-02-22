@@ -14,15 +14,20 @@ header a:hover{
 }
 .footer{
     background-color:#0360a2;
-    height: 70px;
-    display: flex;
+    width: 100%;
+
+    display: block;
     justify-content: center;
     align-items: center;
     text-align: center;
+    position: absolute;
+    bottom: 0;
+    padding: 12px 0;
 }
 footer a:hover{
     border-bottom: 3px solid #3d107b;
 }
+body{background-color: #0971bb;}
 
 /*Conteúdo da página principal*/
 .conteudo{
@@ -32,9 +37,19 @@ footer a:hover{
     background-size: cover;
     display: flex;
     width: 100%;
-    height: 550px;
+    height: 100%;
     overflow-x: hidden;
     }
+.pagina1{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    
+}
+.titulo h1{
+    text-align: center;
+}
 
 /*Conteúdo da página de matérias*/
 
