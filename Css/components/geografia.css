@@ -2,6 +2,7 @@ a{
     text-decoration: none;
     color: white;
 }
+body{background-color: white;}
 .conteudos-geografia{
     display: flex;
     background-color: white;
@@ -36,6 +37,11 @@ a{
 .rosa-nautica-mobile{
     background-color: white;
 }
+.rosa-nautica-mobile h1{
+    font-weight: bold;
+    font-size: 19px;
+    text-align: center;
+}
 .rosa-nautica-mobile img{
     width: 100%;
     margin-bottom: 3%;
@@ -65,6 +71,7 @@ a{
         text-align: center;      
         vertical-align: middle;
         padding-bottom: 20px;
+        margin-top: 20px;
 }
 .rosa-nautica-mobile-footer a:hover{
     border-bottom: 3px solid #3d107b;
