@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.conteudos-geografia{
+    display: flex;
+    background-color: white;
+    text-align: center;
+}
+.conteudos-geografia img{
+    max-width: 600px;
+}
+.texto-rosa-nautica-esquerdo h1{
+    font-size:22px;
+    margin-top: 58px;
+}
+.texto-rosa-nautica-direita h1{
+    font-size:22px;
+    margin-top: 58px;
+    
+}
+.texto-rosa-nautica-direita{
+    margin-left: 120px;
+    
+}
