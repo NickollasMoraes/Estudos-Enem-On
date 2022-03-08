@@ -14,13 +14,35 @@ a{
     font-size:22px;
     margin-top: 58px;
     margin-bottom: 3px;
+    font-weight: bold;
 }
 .texto-rosa-nautica-direita h1{
     font-size:22px;
     margin-top: 58px;
+    font-weight: bold;
     margin-bottom: 3px;
+    
 }
 .texto-rosa-nautica-direita{
     margin-left: 120px;
-    
+    margin-top: 3%;
+}
+.rosa-nautica-mobile{
+    background-color: white;
+}
+.rosa-nautica-mobile img{
+    width: 100%;
+    margin-bottom: 3%;
+}
+.rosa-nautica-texto-mobile{
+    background-color: white;
+    text-align: center;
+}
+.rosa-nautica-texto-mobile h1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+.rosa-nautica-texto-mobile h2{
+    margin-bottom: 3px;
 }
