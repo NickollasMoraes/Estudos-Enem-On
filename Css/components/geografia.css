@@ -10,6 +10,12 @@ a{
 .conteudos-geografia img{
     max-width: 600px;
 }
+.rosa-nautica h1{
+    margin-top: 20px;
+    margin-bottom: 14px;
+    font-weight: bold;
+    font-size: 20px;
+}
 .texto-rosa-nautica-esquerdo h1{
     font-size:22px;
     margin-top: 58px;
@@ -24,7 +30,7 @@ a{
     
 }
 .texto-rosa-nautica-direita{
-    margin-left: 120px;
+    margin-left: 180px;
     margin-top: 3%;
 }
 .rosa-nautica-mobile{
