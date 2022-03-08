@@ -13,11 +13,12 @@ a{
 .texto-rosa-nautica-esquerdo h1{
     font-size:22px;
     margin-top: 58px;
+    margin-bottom: 3px;
 }
 .texto-rosa-nautica-direita h1{
     font-size:22px;
     margin-top: 58px;
-    
+    margin-bottom: 3px;
 }
 .texto-rosa-nautica-direita{
     margin-left: 120px;
