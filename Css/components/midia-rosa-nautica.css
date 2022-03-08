@@ -14,5 +14,5 @@
 @media screen and (min-width: 768px) {
 /*Conteúdo mobile OFF no pc*/
 .mobile{display: none;}
-.rosa-nautica-mobile{display: off;}
+.rosa-nautica-mobile{display: none;}
 }
