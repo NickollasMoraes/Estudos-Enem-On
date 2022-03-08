@@ -2,13 +2,11 @@
     body{height: 100%;}
     header{text-align: center;padding:10px 0;justify-content: center;}
     header a{display: none;}
-    .developer h1{font-size: 100px}
-    .footer{width: 100%;display: block;}   
-    .footer h1{font-size: 100%;}
 /*-------------------------------------------------------------------*/
 /*Conteúdo pc OFF no mobile*/
 .conteudo{display: none;}
 .geografia{display: none;}
+.footer{display: none;}
 }
 
 @media screen and (min-width: 768px) {
