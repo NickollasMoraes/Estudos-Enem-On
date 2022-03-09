@@ -3,7 +3,9 @@ ul {
   margin: 0px;
   padding: 0px;
 }
-
+body{
+    background-color: #0971bb;
+}
 a {
   color: white;
   text-decoration: none;
@@ -43,7 +45,25 @@ margin-left: 10%;
 #btn-mobile {
   display: none;
 }
-
+.pagina-inicial{
+    display: flex;
+text-align: center;
+justify-content: center;
+flex-direction: column;
+}
+.pagina-inicial h1{
+    color: white;
+}
+.char img{
+    width: 100px;
+}
+.comunidade{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
 @media screen and (max-width: 768px) {
   #menu {
     display: block;
@@ -108,12 +128,15 @@ margin-left: 10%;
   .footer img{
     height: 46px ;
     padding-top: 5px;
-}
+} 
 #logo{
     border: 0;
     margin-left: 3%;
     }
+.comunidade{
+    display: block;
 }
+}/*media*/
 .footer{
     color: white;
     background-color:#0360a2;
