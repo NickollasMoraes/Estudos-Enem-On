@@ -34,3 +34,11 @@ header h1{
 .logo-insta img{
     width: 30px;
 }
+.header-mobile{
+    background-color:#0360a2;
+    width: 100%;
+}
+.header-mobile img{
+    width: 75%;
+    margin-top: 5px;
+}
