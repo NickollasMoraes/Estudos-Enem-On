@@ -15,7 +15,9 @@ a:hover {
 }
 
 #logo{
-border: 0;}
+border: 0;
+margin-left: 10%;
+}
 
 #header {
   box-sizing: border-box;
@@ -107,6 +109,10 @@ border: 0;}
     height: 46px ;
     padding-top: 5px;
 }
+#logo{
+    border: 0;
+    margin-left: 3%;
+    }
 }
 .footer{
     color: white;
@@ -123,4 +129,5 @@ border: 0;}
 }
 .footer img{
     width: 50px;
+    
 }
