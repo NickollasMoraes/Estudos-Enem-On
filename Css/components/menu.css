@@ -6,7 +6,13 @@ header a{
     margin-right: 8px;
     border-right: 3px solid #fff;
     padding: 0 20px;
-    margin-top: 30px;
+}
+.menu-nav a{
+    margin-top: 21px;
+}
+.logo-imagem{
+    border: 0;
+    margin-left: 70px;
 }
 header h1{
     display: inline-flex;

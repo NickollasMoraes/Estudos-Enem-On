@@ -14,6 +14,7 @@
 /*Conteúdo pc OFF no mobile*/
 .conteudo{display: none;}
 .mobile{display: flex;}
+.footer{display: none;}
 }
 
 @media screen and (min-width: 768px) {

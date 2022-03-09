@@ -3,6 +3,11 @@ a{
     color: white;
 }
 body{background-color: white;}
+.inicio-geografia a{
+    color: black;
+    margin-left: 15px;
+}
+.inicio-geografia a:hover{border-bottom: 2px solid #3d107b;}
 .conteudos-geografia{
     display: flex;
     background-color: white;
