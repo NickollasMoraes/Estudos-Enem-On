@@ -100,6 +100,13 @@ border: 0;}
     transform: rotate(-135deg);
     top: -7px;
   }
+  .footer h1{
+      font-size: 18px;
+  }
+  .footer img{
+    height: 46px ;
+    padding-top: 5px;
+}
 }
 .footer{
     color: white;
