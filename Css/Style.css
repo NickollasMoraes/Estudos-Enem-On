@@ -223,6 +223,7 @@ flex-direction: column;
     transform: rotate(-135deg);
     top: -7px;
   }
+  .rodape{position: relative;}
   .rodape h1{
       font-size: 14px;
   }
