@@ -146,6 +146,18 @@ flex-direction: column;
     width: 90%;
 }
 .charr{display: none;}
+
+.materias{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ciencias-humanas{
+width: 100%;
+}
+
+
 }/*media*/
 .conteudo-footer{
     color: white;
