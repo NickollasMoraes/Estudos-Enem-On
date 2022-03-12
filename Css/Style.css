@@ -148,21 +148,22 @@ flex-direction: column;
   font-size: 19px;
   margin-bottom: 20px;
 }
-.conteudo-footer{
+.rodape{
+  display: flex;
+  flex-shrink: 0;
   color: white;
   background-color:#0360a2;
   width: 100%;
-  display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
-  bottom: 0;
   padding: 4px 0;
   gap: 20px;
+  position: absolute;
+  bottom: 0;
 }
-.conteudo-footer img{
+.rodape img{
   width: 50px;
-  
+
 }
 @media screen and (max-width: 768px) {
   #menu {
@@ -222,10 +223,10 @@ flex-direction: column;
     transform: rotate(-135deg);
     top: -7px;
   }
-  .conteudo-footer h1{
+  .rodape h1{
       font-size: 14px;
   }
-  .conteudo-footer img{
+  .rodape img{
     height: 46px ;
     padding-top: 5px;
 } 
