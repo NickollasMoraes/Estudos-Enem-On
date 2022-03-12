@@ -164,3 +164,87 @@ flex-direction: column;
     width: 50px;
     
 }
+.materias{
+  display: flex;
+  width: 100%;
+}
+.ciencias-humanas{
+  width: 20%;
+  
+}
+.ciencias-humanas h1{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+.ciencias-humanas a{
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.ciencias-da-natureza{
+  width: 20%;
+  
+}
+.ciencias-da-natureza h1{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+.ciencias-da-natureza a{
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.linguagens{
+  width: 20%;
+  
+}
+.linguagens h1{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+.linguagens a{
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.matematica{
+  width: 20%;
+  
+}
+.matematica h1{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+.matematica a{
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+.redacao{
+  width: 20%;
+  
+}
+.redacao h1{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+.redacao a{
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
