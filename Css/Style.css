@@ -162,10 +162,41 @@ flex-direction: column;
   gap: 20px;
   position: absolute;
   bottom: 0;
+  margin-top: 20px;
 }
 .rodape img{
   width: 50px;
 
+}
+.pagina-inicial-geografia a{
+  margin-left: 20px;
+}
+.titulo-rosa-dos-ventos h1{
+  color: black;
+  font-size: 24px;
+  text-align: center;
+}
+.img-rosa-dos-ventos{
+  text-align: center;
+}
+.pontos{
+  display: flex;width: 100%;gap: 10%;justify-content: center;
+  min-height: 500px;
+}
+.pontos-cardeais{
+  width: 33,3%;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.pontos-colaterais{
+  width: 33,3%;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.pontos-cardeais3{
+  width: 33,3%;
+  padding-bottom: 20px;
+  text-align: center;
 }
 @media screen and (max-width: 768px) {
   #menu {
