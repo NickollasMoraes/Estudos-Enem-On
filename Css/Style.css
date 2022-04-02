@@ -310,3 +310,15 @@ flex-direction: column;
 
 .prossigua-quests a{color: red}
 .prossigua-quests{margin-bottom: 100px;text-align: right;margin-right: 100px;}
+@media screen and (max-width: 768px) {
+  .prossigua-quests{text-align: center;margin: 0 auto;}
+  .pontos{font-size: 13px;}
+}
+@media screen and (max-width: 600px) {
+  .pontos{font-size: 11px;}
+  .img-rosa-dos-ventos img{width: 80%;}
+}
+@media screen and (max-width: 450px) {
+  .pontos{font-size: 9px;}
+  .img-rosa-dos-ventos img{width: 80%;}
+}
